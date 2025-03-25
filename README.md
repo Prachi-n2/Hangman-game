@@ -35,3 +35,5 @@ This is a simple Hangman game implemented in Python. The game randomly selects a
 4. Run the script using the command:
    ```sh
    python Main.py
+
+Save this content in a file named `README.md` in your project directory.
